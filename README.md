@@ -3,7 +3,7 @@
 
 This repository contains the implementation of core algorithms developed during my internship at the Committee of Digital Assets and Breakthrough Technologies (Republic of Kazakhstan).
 
-## 📌 Implemented Algorithms
+## Implemented Algorithms
 
 ### 1. A* Path Planning
 - Grid-based pathfinding
@@ -22,10 +22,10 @@ This repository contains the implementation of core algorithms developed during 
 - Python 3.11
 - NumPy
 
-## ⚠️ Note
+## Note
 The original implementation was developed in an internal GitLab repository during the internship.  
 This public version is a cleaned and adapted version for academic submission.
 
-## 👩‍💻 Author
+## Author
 Samiya Sergibayeva  
 Astana IT University
