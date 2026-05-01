@@ -18,7 +18,7 @@ This repository contains the implementation of core algorithms developed during 
 - Optimizes UAV routes
 - Minimizes path length using intermediate waypoints
 
-## 🛠 Technologies
+## Technologies
 - Python 3.11
 - NumPy
 
